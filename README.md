@@ -14,7 +14,7 @@ You also need to add two [action secrets to your repository](https://docs.github
 * DOCKERHUB_TOKEN
 
 ## Architecture
-
+ 
 Most devsecops scanners follow a similar structure:
 
 ```mermaid
